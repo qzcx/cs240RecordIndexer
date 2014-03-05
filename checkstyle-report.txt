@@ -1,0 +1,27 @@
+Starting audit...
+/users/guest/j/jageorge/cs240/RecordIndexer/src/client/clientComm/ClientComm.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/DataImporter.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/Server.java:83:7: Got an exception - expecting EOF, found 'while'
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/dba/BatchesDba.java:40:73: Got an exception - expecting EOF, found ')'
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/dba/Database.java:146:52: Got an exception - expecting EOF, found ')'
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/dba/FieldsDba.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/dba/ProjectsDba.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/dba/RecordsDba.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/server/dba/UsersDba.java:25:73: Got an exception - expecting EOF, found ')'
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/Download_Results.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/GetFields_Results.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/GetProjects_Results.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/GetSample_Results.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/LogIn_Params.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/Project_Params.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/Result.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/Search_Params.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/Search_Results.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/Submit_Params.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/comm/ValidateUser_Results.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/model/Batch.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/model/Field.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/model/Project.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/model/Record.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+/users/guest/j/jageorge/cs240/RecordIndexer/src/shared/model/User.java:0: Got an exception - java.lang.ClassCastException: antlr.CommonAST cannot be cast to com.puppycrawl.tools.checkstyle.api.DetailAST
+Audit done.

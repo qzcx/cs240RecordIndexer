@@ -1,0 +1,5 @@
+How to run this project using ant:
+Enter the following commands
+1. ant server (starts the server)
+2. ant import (intializes the sqlite database)
+3. ant client (start the client GUI)
